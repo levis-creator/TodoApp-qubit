@@ -13,6 +13,10 @@ function App() {
     {
       task: "Complete Project",
       desc: "The deadline is 3days to come"
+    },
+    {
+      task: "Morning runs",
+      desc: "At 5am"
     }
   ]
   
