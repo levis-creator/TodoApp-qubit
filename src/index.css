@@ -1,0 +1,19 @@
+*{
+padding: 0;
+margin: 0;
+box-sizing: border-box;
+}
+body{
+    background-color: aliceblue;
+}
+.btn{
+    width: fit-content;
+    height: fit-content;
+    padding: 10px;
+    border: none;
+    border-radius: 3px;
+}
+.primary-btn{
+    background-color: rgb(61, 61, 255);
+    color: white;
+}

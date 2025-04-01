@@ -1,0 +1,16 @@
+.todo-card {
+    background: white;
+    border-radius: 6px;
+    margin-block: 8px;
+    padding: 20px 20px;
+}
+
+.todo-head {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.todo-title {
+    flex: 1;
+}
